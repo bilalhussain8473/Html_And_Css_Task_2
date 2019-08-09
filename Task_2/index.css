@@ -1,0 +1,116 @@
+#body_div{
+
+background-color:whitesmoke;
+
+}
+.header{
+background-color: navy;
+top:-1px;
+padding-top: 2%;
+right:20%;
+margin-right:-8px; 
+margin-top:-8px; 
+margin-left:-8px;
+}
+#id_1
+{
+color:white;
+margin-left:20%;
+font-size: 40px;
+font-weight: bold;
+}
+#id_2
+{
+color:white;
+margin-right:30%;
+float:right;
+margin-top:-4%;
+}
+#id_3
+{
+color:white;
+margin-right:19%;
+float:right;
+margin-top:-4%;
+}
+
+#id_4
+{
+
+margin-right:15%;
+float:right;
+margin-top:-2.5%;
+color: aquamarine;
+background-color: black;
+}
+#id_5
+{
+    color:gainsboro;
+background-color: steelblue ;
+border-radius: 5px;
+}
+#id_5:hover
+{
+    color: white;
+
+    cursor: pointer;
+
+}
+
+
+.account
+{
+float:right;
+margin-top: -22%;
+}
+#id_6
+{
+
+    width: 58%;
+    padding:1.5% ;
+    border-radius:10px ;
+}
+#id_7
+{
+
+    padding:1.5% ;
+    border-radius:10px ;
+}
+ 
+th { 
+    float: left;
+    font-size:30px ;
+     font-weight: bolder ;
+    Color:black; 
+} 
+ td { 
+    width:70%; 
+    padding:10px 
+  
+} 
+#btn
+{
+width: 45%;
+padding: 2%;
+background-color:seagreen;
+color:gainsboro;
+border-radius: 10px;
+
+}
+#btn:hover
+{
+    cursor: pointer;
+    color:white;
+
+}
+
+.img
+{
+margin-left: 19%;
+color: navy;
+}
+#img_id
+{
+width: 50%;
+
+}
